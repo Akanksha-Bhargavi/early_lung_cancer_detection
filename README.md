@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 # **Early Detection of Lung Cancer Risk Using Prediction Models**
 Welcome to our Early Detection of Lung Cancer Risk project, where we use data science and machine learning to assess lung cancer risk. This predictive model aims to support healthcare professionals in identifying high-risk individuals for earlier diagnosis and improved patient outcomes.
 
@@ -212,4 +212,4 @@ For the Python dependencies and the conda environment creation file, please chec
 
 
 
->>>>>>> 0745549057de8905e260b5b6e99fa49a14654eb6
+0745549057de8905e260b5b6e99fa49a14654eb6
